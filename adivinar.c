@@ -2,7 +2,7 @@
 #include <stdlib.h> //para el random
 #include <time.h> 
 
-
+//hecho en el primer semestre de 2025
 
 int aleatorio (void) {
     int x;

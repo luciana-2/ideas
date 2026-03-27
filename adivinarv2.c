@@ -2,6 +2,9 @@
 #include <stdlib.h> //para el random//
 #include <time.h>  //para que el random no sea siempre el mismo, incluye el tiempo de la maquina//
 
+//pretty proud of this one, not gonna lie. 
+//hecho en el primer semestre de 2025/
+
 //version dos donde hay vidas y niveles//
 
 int aleatoriofacil (void) {
